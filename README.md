@@ -12,3 +12,5 @@ https://fusionautomate.in/netsh-port-forwarding-from-lan-ip192-168-xx-xx-port188
 
 referance video
 https://fusionautomate.in/how-to-publish-dht11-sensor-data-from-nodemcu-to-mosquitto-mqtt-broker/
+
+How to run the MQtt Broker in the smart phone https://www.youtube.com/watch?v=UmmK6MiXOqM
