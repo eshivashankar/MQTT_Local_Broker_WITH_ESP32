@@ -16,3 +16,7 @@ https://fusionautomate.in/how-to-publish-dht11-sensor-data-from-nodemcu-to-mosqu
 How to run the MQtt Broker in the smart phone https://www.youtube.com/watch?v=UmmK6MiXOqM
 
 howto install node-red in phone https://www.youtube.com/watch?v=ckqsq0E1TJ0&t=46s
+
+<img width="607" height="505" alt="image" src="https://github.com/user-attachments/assets/5811bc08-b3ca-44f8-99b9-d3b8710bfcfb" />
+
+<img width="603" height="485" alt="image" src="https://github.com/user-attachments/assets/db9340cc-8984-4815-8b1e-f3357b74eda4" />
