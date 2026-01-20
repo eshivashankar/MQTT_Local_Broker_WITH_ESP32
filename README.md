@@ -20,3 +20,7 @@ howto install node-red in phone https://www.youtube.com/watch?v=ckqsq0E1TJ0&t=46
 <img width="607" height="505" alt="image" src="https://github.com/user-attachments/assets/5811bc08-b3ca-44f8-99b9-d3b8710bfcfb" />
 
 
+
+
+how to enalbe the TERMEX location files in phone link:
+https://www.howtogeek.com/things-you-should-do-after-installing-the-terminal-emulator-termux-on-android/
